@@ -13,13 +13,13 @@ Depois de concluído  o passo de entender o básico de funcionamento de uma rede
 
 - Entendendo seu problema: classificação ou regressão?
 
--- Realizar a divisão do conjunto de dados em treino e teste.
+- Realizar a divisão do conjunto de dados em treino e teste.
 
--- Pré-processamento dos seus dados.
+- Pré-processamento dos seus dados.
 
--- Construção da rede: quais arquiteturas utilizar?
+- Construção da rede: quais arquiteturas utilizar?
 
--- Treinamento da rede.
+- Treinamento da rede.
 
--- Realização de testes.
+- Realização de testes.
 
