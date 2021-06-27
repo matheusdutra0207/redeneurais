@@ -1,4 +1,4 @@
-# Trabalho de Frodo.
+# Trabalho de Frodo
 
 O intuito deste trabalho é construir do zero uma rede neural multicamadas, ou MLP (Multilayer Perceptron), utilizando Python e algumas bibliotecas, como TensorFlow, scikit-learn e pandas. 
 O projeto foi construído seguindo [esse tutorial](https://bearlabs.dev/blog/redesneurais/).
