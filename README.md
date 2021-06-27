@@ -11,7 +11,7 @@ Depois de concluído  o passo de entender o básico de funcionamento de uma rede
 
 ### Para o realização da rede, o trabalho foi divido em 6 partes principais:
 
--- Entendendo seu problema: classificação ou regressão?
+- Entendendo seu problema: classificação ou regressão?
 
 -- Realizar a divisão do conjunto de dados em treino e teste.
 
