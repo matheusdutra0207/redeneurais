@@ -3,7 +3,7 @@
 O intuito deste trabalho é construir do zero uma rede neural multicamadas, ou MLP (Multilayer Perceptron), utilizando Python e algumas bibliotecas, como TensorFlow, scikit-learn e pandas. 
 O projeto foi construído seguindo [esse tutorial](https://bearlabs.dev/blog/redesneurais/).
 
-Primeiro passo foi o estudo da rede neural perceptron, na qual foi apresentada na aula pelo professor Frodo. Para a Realização desse estudo, foi construída  uma rede Neural(perceptron.py presente neste repositório) para classificar 2 flores íris em íris setosa e íris virginica.
+Primeiro passo foi o estudo da rede neural perceptron, na qual foi apresentada na aula pelo professor Frodo. Para a Realização desse estudo, foi construída  uma rede Neural(perceptron.py presente neste repositório) para classificar 2 flores íris em íris setosa e íris versicolor.
 
 Depois de concluído  o passo de entender o básico de funcionamento de uma rede neural perceptron, foram realizadas pesquisas na internet para buscar exemplos de aplicações de MLP usando Python e suas bibliotecas. 
 
